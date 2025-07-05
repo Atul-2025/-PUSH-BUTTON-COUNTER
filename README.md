@@ -39,3 +39,7 @@ USB Cable for Programming
 CIRCUTI DIAGRAM
 
 ![Image](https://github.com/user-attachments/assets/b07bbec2-25b0-42b9-befa-38fc97763e2c)
+
+OUTPUT 
+
+![Image](https://github.com/user-attachments/assets/e9f4026b-78c8-4f3d-b411-6f23f75a49d1)
