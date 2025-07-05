@@ -1,3 +1,13 @@
 # -PUSH-BUTTON-COUNTER
 
-company : codetech it solution
+COMPANY NAME : CODETECH IT SOLUTION
+
+NAME : ATUL KUMAR SINGH
+
+Intern ID :CT06DF1527
+
+DOMAIN :Embedded Systems
+
+DURATION :6 weeks
+
+MENTOR:NEELA SANTOSH
