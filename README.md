@@ -35,3 +35,7 @@ Pull-down or Pull-up Resistor (typically 10kΩ)
 Breadboard and Jumper Wires
 
 USB Cable for Programming
+
+CIRCUTI DIAGRAM
+
+![Image](https://github.com/user-attachments/assets/b07bbec2-25b0-42b9-befa-38fc97763e2c)
